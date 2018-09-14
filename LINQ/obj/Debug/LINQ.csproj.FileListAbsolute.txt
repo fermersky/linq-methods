@@ -1,0 +1,6 @@
+C:\Users\PKO\Desktop\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\PKO\Desktop\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\PKO\Desktop\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\PKO\Desktop\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\PKO\Desktop\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\PKO\Desktop\LINQ\LINQ\obj\Debug\LINQ.pdb
